@@ -1,178 +1,163 @@
-/
-Adjectifs
-Optimiste
-Pessimiste
-Canadien
-Calme
-Timide
-dynamique
-Tetu 
-reservé(e)
-sociable
-Fatigue
-Stressés
-Sympathique
-Désagréable
-Idéaliste
-Réaliste
-Jolie
-Intelligente
-Amusante
-Mince (thin)
-Rousse (redhead)
-Elegante
-Genereuse
-Sportif
-Paresseuse
-Jeune
-Gros
-Serieux
-Heureux
-Beau
-Actif
-Fou
-Rouz
-Gros
-gentil
-
-Intensity verbs
-Un peu (a little)
-Assez (rather/ quite)
-Tres (very)
-Vraiment (really)
-Trop (too)
-
-
-
-
+Vocabulary
+Adjectives
+Optimiste: optimistic
+Pessimiste: pessimistic
+Canadien(ne): Canadian
+Calme: calm
+Timide: shy
+Dynamique: dynamic
+Tetu(e): stubborn
+Reserve(e): reserved
+Sociable: sociable
+Fatigue: tired
+Stresse(e)(s): stressed
+Sympathique: nice, friendly
+Desagreable: unpleasant
+Idealiste: idealistic
+Realiste: realistic
+Jolie: pretty
+Intelligente: intelligent
+Amusante: fun
+Mince: thin
+Rousse: redhead
+Elegante: elegant
+Genereuse: generous
+Sportif(ve): sporty
+Paresseuse: lazy
+Jeune: young
+Gros(se): big, heavy
+Serieux(se): serious
+Heureux(se): happy
+Beau/belle: beautiful, handsome
+Actif(ve): active
+Fou/folle: crazy
+Gentil(le): kind
+Intensity Verbs
+Un peu: a little
+Assez: rather, quite
+Tres: very
+Vraiment: really
+Trop: too
 Verbs
-Avoir (to have) - 3d
-Aller ( to go) - 8c
-Jouer (to play) - 5a
-Faire (to do)
-
-5c Verbs en -er
-Parler (to talk)
-Regarder (to watch)
-Aimer (to love)
-
-
+Avoir: to have
+Aller: to go
+Jouer: to play
+Faire: to do
+Verbs en -er:
+Parler: to talk
+Regarder: to watch
+Aimer: to love
 Nouns
-2a Salle de Classe
-Une affiche (poster)
-Une brosse (eraser for chalk or whiteboard)
-Un bureau (desk)
-Un Cahier (notebook)
-Une Carte (map)
-Une Calculatrice (calculator)
-Un CD (CD)
-Une Chaise (chair)
-Une craie (piece of chalk)
-Un crayon (pencil)
-Des devoirs (homework)
-Un DVD (DVD)
-Une fenêtre (window)
-Un feutre (felt-tipped marker)
-Une gomme (eraser, for pencil)
-Un lecteur CD (CD player)
-Un lecteur DVD (DVD player)
-Un livre (book)
-Un ordinateur (computer)
-Une porte (door)
-Une regle (ruler) 
-Un stylo (pen)
-Un tableau (chalkboard)
-Un tableau blanc (whiteboard)
- Une télévision (television)
+Salle de Classe: classroom
+Une affiche: poster
+Une brosse: eraser for chalk or whiteboard
+Un bureau: desk
+Un Cahier: notebook
+Une Carte: map
+Une Calculatrice: calculator
+Un CD: CD
+Une Chaise: chair
+Une craie: piece of chalk
+Un crayon: pencil
+Des devoirs: homework
+Un DVD: DVD
+Une fenetre: window
+Un feutre: felt-tipped marker
+Une gomme: eraser, for pencil
+Un lecteur CD: CD player
+Un lecteur DVD: DVD player
+Un livre: book
+Un ordinateur: computer
+Une porte: door
+Une regle: ruler
+Un stylo: pen
+Un tableau: chalkboard
+Un tableau blanc: whiteboard
+Une television: television
+Family
+Père: dad
+Mère: mother
+Soeur: sister
+Frere: brother
+Tante: aunt
+Mari: husband
+Divorce(e): divorced
+Remarie(e): remarried
+La copine: girlfriend
+Fille: girl or daughter
+Garcon: boy or son
+Grand-mere: grandmother
+Oncle: uncle
+Grand-pere: grandfather
+Animals
+Animal/animaux: animal(s)
+Months
+Janvier: January
+Fevrier: February
+Mars: March
+Avril: April
+Mai: May
+Juin: June
+Juillet: July
+Aout: August
+Septembre: September
+Octobre: October
+Novembre: November
+Decembre: December
+aujourd'hui: today
+Days of the Week
+Lundi: Monday
+Mardi: Tuesday
+Mercredi: Wednesday
+Jeudi: Thursday
+Vendredi: Friday
+Samedi: Saturday
+Dimanche: Sunday
+Time
+Le matin: morning
+L’apres-midi: afternoon
+Le soir: evening
+Nuit: night
+Places in a City
+Piscine: pool
+Gymnase: gym
+Parc: park
+Cinema: theatre/cinema
+Exposition: exhibition
+Musee: museum
+Theatre: theatre
+Bibliotheque: library
+Restaurant: restaurant
+Cafe: cafe
+Prepositions of Place
+Dans: in
+Devant: in front of
+Sous: underneath
+Derriere: behind
+Sur: on
+A cote de: beside
+Entre: between
 
+Leisure activities
+Les loisirs: leisure-time activities
+faire du sport: play sports
+le foot: soccer
+un match: a game/match
+les copains: friends
+la musique: music
+jouer dans un groupe: play in a band
+donner un concert: give a concert
+la guitare: guitar
+piano: piano
+organiser une fête: organize a party
+faire les courses: run errands
+faire la cuisine: cook
+la résidence: residence/housing
+regarder un film: watch a movie
+les échecs: chess
+la natation: swimming
+le vélo: biking
+le bricolage: home improvements
+le jardinage: gardening
 
-2bhttps://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/media/printable-slides/2b-il-y-a.pdf?_&d2lSessionVal=kcpYGLcEfaAwTujiAn6ZXSwv3&ou=864305 (there is a)
-2c https://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/lecture-content/module-2/2c/index.html?ou=864305k (Useful expressions)
-
-
-3a Ma famille
-Père (dad) 
-Mère (mother)
-Soeur (sister)
-Frere (brother)
-Tante (aunt)
-Mari (husband) 
-Divorcé/ée (divorced)
-remarié/ée (remarried)
-La copine (girlfriend)
-Fille (girl or daughter)
-Garcon (boy or son)
-Grand-mere (grandmother)
-Oncle (uncle)
-Grand-pere (grandfather)
-animal/animeaux (animal(s))
-
- 
-
-4a Les nombres de 0 à 100
-Just google it, I cba to write them all (or https://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/media/printable-slides/4a-nombres-de-0-100.pdf?_&d2lSessionVal=kcpYGLcEfaAwTujiAn6ZXSwv3&ou=864305)
-
-4c Les dates, Le calendrier, les fêtes
-Janvier
-Fevrier
-Mars
-Avril
-Mai
-Juin
-Juillet
-Aout
-Septembre
-Octobre
-Novembre
-Decembre
-aujourd’hui 
-
-4d https://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/media/printable-slides/4d-age-en-francais.pdf?_&d2lSessionVal=kcpYGLcEfaAwTujiAn6ZXSwv3&ou=864305
-5a Les jours de la semaine
-Lundi
-Mardi 
-Mercredi
-Jeudi
-Vendredi
-Samedi
-Dimanche
-
-5b Parties de la journée 
-Le matin (morning)
-L’apres-midi (afternoon)
-Le soir (evening)
-Nuit (night)
-
-5c https://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/media/printable-slides/5d-questions.pdf?_&d2lSessionVal=kcpYGLcEfaAwTujiAn6ZXSwv3&ou=864305
-
-6c Questions avec un mot interrogatif
-Comment (how)
-Quand (when)
-Ou (where)
-Pourquoi (why)
-Combien (how many / how much)
-
-7a https://learn.uwaterloo.ca/content/enforced/864305-FR101_081_cel_1231/media/printable-slides/7a-les-loisirs.pdf?_&d2lSessionVal=kcpYGLcEfaAwTujiAn6ZXSwv3&ou=864305
- 8a Les endroit dans une ville
-Piscine (pool)
-Gymnase (gym)
-Parc (park)
-Cinema (theatre/cinema)
-Exposition (exchibition)
-Musee (museum) 
-Theatre (theatre)
-Bibliotheque (library)
-restaurant (restaurant)
-Cafe (cafe)
-
-
-
-Preposition de lieu
-Dans (in)
-Devant (in front of)
-Sour ( underneath)
-Derriere (behind)
-Sur (on)
-A cote de (beside)
-Entre (between)
 
